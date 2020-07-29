@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/starwars_test/static/css/main.54b76ceb.chunk.css",
+    "main.js": "/starwars_test/static/js/main.55bc2def.chunk.js",
+    "main.js.map": "/starwars_test/static/js/main.55bc2def.chunk.js.map",
+    "runtime~main.js": "/starwars_test/static/js/runtime~main.f2d47be9.js",
+    "runtime~main.js.map": "/starwars_test/static/js/runtime~main.f2d47be9.js.map",
+    "static/js/2.68adaf7c.chunk.js": "/starwars_test/static/js/2.68adaf7c.chunk.js",
+    "static/js/2.68adaf7c.chunk.js.map": "/starwars_test/static/js/2.68adaf7c.chunk.js.map",
+    "index.html": "/starwars_test/index.html",
+    "precache-manifest.47d72dd40215b35620b9802d07fd8c8e.js": "/starwars_test/precache-manifest.47d72dd40215b35620b9802d07fd8c8e.js",
+    "service-worker.js": "/starwars_test/service-worker.js",
+    "static/css/main.54b76ceb.chunk.css.map": "/starwars_test/static/css/main.54b76ceb.chunk.css.map",
+    "static/media/poster.jpg": "/starwars_test/static/media/poster.13a5abbf.jpg",
+    "static/media/index.scss": "/starwars_test/static/media/wall.e29d1e54.jpg"
+  }
+}
